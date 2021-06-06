@@ -6,7 +6,10 @@ About my pull requests.
 https://github.com/adjust/unreal_sdk/pull/3
 
 * Fixed: UE-113374 Crash when copying and making a button widget the root of a second widget blueprint  
+https://issues.unrealengine.com/issue/UE-113374  
 https://github.com/EpicGames/UnrealEngine/pull/7948
 
-* Fixed: UE-111350, UE-112452 Crash. Running a VR template packaged game with -nohmd results in an AudioDevice crash  
+* Fixed: UE-111350, UE-112452 Crash. Running a VR template packaged game with -nohmd results in an AudioDevice crash
+https://issues.unrealengine.com/issue/UE-111350  
+https://issues.unrealengine.com/issue/UE-112452  
 https://github.com/EpicGames/UnrealEngine/pull/7949
