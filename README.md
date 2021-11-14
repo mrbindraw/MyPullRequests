@@ -1,6 +1,9 @@
 # MyPullRequests
 About my pull requests.
 
+* Fixed android compile for BinkMedia plugin when use arm64-v8a, armeabi-v7a arch  
+https://github.com/EpicGames/UnrealEngine/pull/8612
+
 * Fix compile error enums EAdjustEnvironment, EAdjustLogLevel does not have a 0 entry!  
 (This is a problem when the enum is initalized by default)  
 https://github.com/adjust/unreal_sdk/pull/3
