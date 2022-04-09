@@ -1,6 +1,10 @@
 # MyPullRequests
 About my pull requests.
 
+* Fixed compile errors for UE plugin ElgEditorScripting after migration to UE 5.0.0  
+https://github.com/ElgSoft/ElgEditorScripting/pull/7  
+https://github.com/mrbindraw/ElgEditorScripting/commits/dev
+
 * Fixed android compile for BinkMedia plugin when use arm64-v8a, armeabi-v7a arch  
 https://github.com/EpicGames/UnrealEngine/pull/8612
 
